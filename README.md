@@ -25,6 +25,7 @@ Here are the primary forms of energy and how they are measured:
 
 2.  **Potential Energy**
     *   **Definition:** Stored energy based on an object's position or state.
+    *   **Formula:** TBD
     *   **Types:**
         *   *Gravitational:* Energy stored due to height (e.g., a rock on a cliff).
         *   *Elastic:* Energy stored in stretched or compressed objects (e.g., a drawn bow).
