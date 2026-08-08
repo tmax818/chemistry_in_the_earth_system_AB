@@ -1,5 +1,5 @@
 ---
-title: chemistry~intheearthsystemAB~
+title: chemistry in the earth system
 ---
 
 # first semester

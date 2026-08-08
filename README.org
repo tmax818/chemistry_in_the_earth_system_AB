@@ -1,4 +1,4 @@
-#+title: chemistry_{intheearthsystemAB}
+#+title: chemistry in the earth system
 
 * first semester
 :PROPERTIES:
