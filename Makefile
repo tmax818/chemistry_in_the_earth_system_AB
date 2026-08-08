@@ -2,4 +2,4 @@
 
 
 all:
-	pandoc -s -o README.md README.org
+	pandoc -s -o README.org README.md

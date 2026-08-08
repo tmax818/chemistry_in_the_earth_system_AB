@@ -1,0 +1,74 @@
+---
+title: chemistry~intheearthsystemAB~
+---
+
+# first semester
+
+## measuring matter and energy
+
+### essential questions
+
+- **What are some different forms of energy, and how are they measured?**
+- **How can various properties of matter be measured and described?**
+- **What happens to the particles and energy of a substance as itchanges temperature or changes state?**
+
+## heat and energy
+
+-   How is the stability of a gaseous system affected by changes in the system?
+-   How is energy transferred within and between systems?
+-   How do energy and matter cycle in Earth's interior?
+
+## patterns in the properties of matter
+
+-   What are the physical and chemical properties of metals, nonmetals, and metalloids?
+-   What is the scale and basic structure of an atom?
+-   How do patterns in the periodic table predict the behavior and properties of elements?
+-   How can different types of bonding affect the properties of substances?
+-   How can you use the periodic table to help predict the types of bonds elements will form?
+
+## chemical attractions
+
+-   How do forces between particles affect the properties of materials?
+-   How can interactions between particles be modeled?
+-   How does the law of conservation of mass apply to chemical reactions
+    at both the macroscopic and subatomic scales?
+-   In what ways can the changes in chemical reactions be quantified in
+    terms of reactants and products?
+-   What is solubility, and how do different factors affect it?
+
+# second semester
+
+## even more chemical attractions
+
+-   How do forces between particles affect the properties of materials?
+-   How can interactions between particles be modeled?
+-   How does the law of conservation of mass apply to chemical reactions
+    at both the macroscopic and subatomic scales?
+-   In what ways can the changes in chemical reactions be quantified in
+    terms of reactants and products?
+-   What is solubility, and how do different factors affect it?
+
+## reaction energy
+
+-   What is the source of energy in chemical systems and processes?
+-   How can we model the patterns of energy flow in a chemical reaction?
+-   How can energy be used to control chemical reactions?
+
+## human activity and the earth\'s atmosphere
+
+-   How is energy obtained from different sources stored, transported,
+    and used?
+-   How do scientists and engineers use their knowledge of climate
+    science and chemistry to develop energy system solutions that
+    optimize conservation and minimize pollution at different scales?
+-   How has California addressed environmental problems related to
+    energy use?
+
+## chemical equilibrium
+
+-   What cause-and-effect mechanisms explain how a reaction proceeds?
+-   What scale is used to rate the strengths of acids and bases?
+-   What predictable patterns happen when chemical equilibrium is
+    disturbed?
+-   How can matter cycles and energy flows in chemical equilibrium
+    processes be used to address ecological and economic concerns?
