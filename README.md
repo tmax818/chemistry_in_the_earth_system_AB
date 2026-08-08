@@ -2,7 +2,9 @@
 title: chemistry in the earth system
 ---
 
-The following are the essential questions (and AI genrated answers) to the essential questions outlined in the district's pacing guide.
+The following are the **essential questions** (and AI genrated answers)outlined in the district's [pacing guide].
+
+[pacing guide]: https://docs.google.com/presentation/d/109XUpPRbk49KlgdR8bgXr8TG19ON2OSdYWE7BZB0OW0/edit?slide=id.g377e4b8f59c_1_0#slide=id.g377e4b8f59c_1_0
 
 # first semester
 
@@ -58,6 +60,8 @@ Here are the primary forms of energy and how they are measured:
     *   $1 \text{ Watt} = 1 \text{ Joule per second}$.
     *   Example: A 60W light bulb uses 60 joules of electrical energy every second.
 *   **Calories and BTUs:** Still widely used in specific industries (nutrition and heating/cooling) but can be converted to joules ($1 \text{ cal} \approx 4.184 \text{ J}$).
+
+<!-- END -->
 
 
 ### How can various properties of matter be measured and described?
@@ -155,7 +159,7 @@ On a microscopic level, matter is described by:
 | **pH** | Acidity/Alkalinity | 0–14 | pH Meter |
 | **Flammability** | Burning potential | Flash Point (°C) | Ignition Source |
 
-
+<!-- END  -->
 
 ### What happens to the particles and energy of a substance as it changes temperature or changes state?
 
@@ -220,7 +224,7 @@ If you plot temperature vs. time while heating ice to steam, you see a distinct 
 *   **Endothermic Processes** (Melting, Boiling, Sublimation): Energy is **absorbed** from the surroundings to break bonds. The surroundings get cooler.
 *   **Exothermic Processes** (Freezing, Condensation, Deposition): Energy is **released** to the surroundings as bonds form. The surroundings get warmer.
 
-
+<!-- END  -->
 
 
 ## heat and energy
@@ -279,6 +283,9 @@ Adding an inert gas (like Helium or Argon) that does not participate in the reac
 
 #### Key Concept: Dynamic Equilibrium
 It is important to remember that "stability" in a gaseous system does not mean the reaction has stopped. It is **dynamic**: reactants turn into products and products turn back into reactants at the **same rate**. When a change occurs, these rates become temporarily unequal until the system settles into a new stable state where the rates are equal again.
+
+
+<!-- END  -->
 
 ### How is energy transferred within and between systems?
 
@@ -347,7 +354,7 @@ How energy transfer is described depends on the type of system:
 | **Mass Flow** | Pressure/Concentration gradient | Yes (Matter) | Steam turbine |
 | **Electricity** | Voltage difference | Yes (Conductor) | Power line |
 
-
+<!-- END  -->
 
 
 ### How do energy and matter cycle in Earth's interior?
@@ -404,6 +411,8 @@ Deep within the Earth, the **outer core** is a liquid layer of iron and nickel.
 
 #### Key Takeaway
 Earth's interior is a **closed system** regarding matter (very little matter enters or leaves, aside from meteorites and atmospheric loss) but an **open system** regarding energy (heat flows out to space). The continuous loss of internal heat drives the convection currents that constantly churn, recycle, and rearrange the planet's solid matter, making Earth a geologically active world.
+
+<!-- END  -->
 
 ## patterns in the properties of matter
 
@@ -482,6 +491,7 @@ If you look at the periodic table, the **staircase line** starts between Boron (
 *   Elements **on the line** are **Metalloids**.
 *   Elements **to the right** of the line are **Nonmetals**.
 
+<!-- END  -->
 
 ### What is the scale and basic structure of an atom?
 
@@ -543,10 +553,13 @@ Modern science describes the atom not as a solar system (planets orbiting a sun)
 *   **Bonding:** Determined by the arrangement of electrons in the outer shell.
 
 
+<!-- END  -->
 
 
 ### How do patterns in the periodic table predict the behavior and properties of elements?
+
 ### How can different types of bonding affect the properties of substances?
+
 ### How can you use the periodic table to help predict the types of bonds elements will form?
 
 ## chemical attractions
