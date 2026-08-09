@@ -35,10 +35,10 @@ Here are the primary forms of energy and how they are measured:
 
 #### Major Forms of Energy
 
-1.  **[Kinetic Energy]**
-    *   **Definition:** The energy of motion. Any object that is moving possesses kinetic energy.
-    *   **Formula:** $KE = \frac{1}{2}mv^2$ (where $m$ is mass and $v$ is velocity).
-    *   **Measurement:** Measured in **joules (J)**. For example, a car speeding down the highway has significant kinetic energy.
+1.  [Kinetic Energy]
+    - Definition: The energy of motion. Any object that is moving possesses kinetic energy.
+    - Formula: $KE = \frac{1}{2}mv^2$ (where $m$ is mass and $v$ is velocity).
+    - Measurement: Measured in joules (J). For example, a car speeding down the highway has significant kinetic energy.
 
 
 2.  **[Potential Energy]**
@@ -86,7 +86,7 @@ Here are the primary forms of energy and how they are measured:
 
 *   **The [Watt] (W):** Often confused with energy, the **watt** is actually a unit of **power**, which is the *rate* at which energy is used or transferred.
 
-    *   $1 \text{ Watt} = 1 \text{ Joule per second}$.
+    *   $1 \text{Watt} = 1 \text{ Joule per second}$.
 
     *   Example: A 60W light bulb uses 60 joules of electrical energy every second.
 
