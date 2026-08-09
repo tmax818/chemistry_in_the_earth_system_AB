@@ -2,67 +2,98 @@
 title: chemistry in the earth system
 ---
 
-The following are the **essential questions** (and AI genrated answers)outlined in the district's [pacing guide].
+The following are the **essential questions** (and AI generated answers)outlined in the district's [pacing guide].
 
 [pacing guide]: https://docs.google.com/presentation/d/109XUpPRbk49KlgdR8bgXr8TG19ON2OSdYWE7BZB0OW0/edit?slide=id.g377e4b8f59c_1_0#slide=id.g377e4b8f59c_1_0
 
 # first semester
 
-## measuring matter and energy
+## measuring [matter] and [energy]
 
-### What are some different forms of energy, and how are they measured?
+[matter]: https://en.wikipedia.org/wiki/matter
+[energy]: https://en.wikipedia.org/wiki/energy
+[joule]: https://en.wikipedia.org/wiki/joule
+[kinetic energy]: https://en.wikipedia.org/wiki/kinetic_energy
+[potential energy]: https://en.wikipedia.org/wiki/potential_energy
+[gravitational]: https://en.wikipedia.org/wiki/gravitational_energy
+[elastic]: https://en.wikipedia.org/wiki/elastic_energy
+[chemical]: https://en.wikipedia.org/wiki/chemical_energy
+[heat]: https://en.wikipedia.org/wiki/heat_energy
+[electrical]: https://en.wikipedia.org/wiki/electrical_energy
+[radiant]: https://en.wikipedia.org/wiki/radiant_energy
+[nuclear]: https://en.wikipedia.org/wiki/nuclear_energy
+[sound]: https://en.wikipedia.org/wiki/sound_energy
+[watt]: https://en.wikipedia.org/wiki/watt
+[calorie]: https://en.wikipedia.org/wiki/calorie
+[btu]: https://en.wikipedia.org/wiki/btu
 
-Energy exists in many forms, but they all share the same fundamental unit of measurement: the **joule (J)** in the International System of Units (SI). While the joule is the standard, different fields often use specific units for convenience.
+### What are some different forms of [energy], and how are they measured?
+
+[Energy] exists in many forms, but they all share the same fundamental unit of measurement: the **[joule] (J)** in the [International System of Units (SI)]. While the joule is the standard, different fields often use specific units for convenience.
 
 Here are the primary forms of energy and how they are measured:
 
 #### Major Forms of Energy
 
-1.  **Kinetic Energy**
+1.  **[Kinetic Energy]**
     *   **Definition:** The energy of motion. Any object that is moving possesses kinetic energy.
     *   **Formula:** $KE = \frac{1}{2}mv^2$ (where $m$ is mass and $v$ is velocity).
     *   **Measurement:** Measured in **joules (J)**. For example, a car speeding down the highway has significant kinetic energy.
 
-2.  **Potential Energy**
+
+2.  **[Potential Energy]**
     *   **Definition:** Stored energy based on an object's position or state.
     *   **Formula:** TBD
     *   **Types:**
-        *   *Gravitational:* Energy stored due to height (e.g., a rock on a cliff).
-        *   *Elastic:* Energy stored in stretched or compressed objects (e.g., a drawn bow).
-        *   *Chemical:* Energy stored in atomic bonds (e.g., in food, batteries, or gasoline).
-    *   **Measurement:** Measured in **joules (J)**. Chemical energy is sometimes discussed in **calories** or **kilocalories** (food energy) or **BTUs** (heating value of fuel).
+        *   *[Gravitational]* Energy stored due to height (e.g., a rock on a cliff).
+        *   *[Elastic]* Energy stored in stretched or compressed objects (e.g., a drawn bow).
+        *   *[Chemical]* Energy stored in atomic bonds (e.g., in food, batteries, or gasoline).
+    *   **Measurement:** Measured in **[joule]s (J)**. Chemical energy is sometimes discussed in **calories** or **kilocalories** (food energy) or **[BTU]s** (heating value of fuel).
 
-3.  **Thermal (Heat) Energy**
+3.  **Thermal ([Heat]) Energy**
+    
     *   **Definition:** The internal energy of an object due to the kinetic energy of its atoms and molecules. It flows from hotter to cooler objects.
-    *   **Measurement:** While the energy itself is in **joules (J)**, it is often measured in **calories** (the energy to raise 1g of water by 1°C) or **BTUs** (British Thermal Units) in HVAC systems.
+    
+    *   **Measurement:** While the energy itself is in **joules (J)**, it is often measured in **calories** (the energy to raise 1g of water by 1°C) or **[BTU]s** (British Thermal Units) in HVAC systems.
 
-4.  **Electrical Energy**
+4.  **[Electrical] Energy**
+    
     *   **Definition:** Energy caused by the movement of electric charges (electrons).
+    
     *   **Measurement:**
         *   Scientific: **Joules (J)**.
         *   Utility/Billing: **Kilowatt-hours (kWh)**. This is what you see on your electricity bill (1 kWh = 3.6 million joules).
 
-5.  **Radiant (Light) Energy**
+5.  **[Radiant] (Light) Energy**
     *   **Definition:** Energy that travels in waves, such as visible light, X-rays, and radio waves.
     *   **Measurement:** Measured in **joules (J)**. The intensity of light is often measured in **watts per square meter (W/m²)**.
 
-6.  **Nuclear Energy**
+6.  **[Nuclear] Energy**
+    
     *   **Definition:** Energy stored in the nucleus of an atom, released during fission (splitting) or fusion (combining).
+    
     *   **Measurement:** Measured in **joules (J)**. In nuclear physics, the **electronvolt (eV)** is a common smaller unit.
 
-7.  **Sound Energy**
+7.  **[Sound] Energy**
+    
     *   **Definition:** Energy produced by vibrating objects and transmitted through a medium (air, water, solids) as waves.
+    
     *   **Measurement:** The energy is in **joules**, but sound *intensity* or *level* is typically measured in **decibels (dB)**, which is a logarithmic ratio.
 
 #### Key Measurement Concepts
 
-*   **The Joule (J):** The universal standard. One joule is the energy required to apply a force of one newton over a distance of one meter.
-*   **The Watt (W):** Often confused with energy, the **watt** is actually a unit of **power**, which is the *rate* at which energy is used or transferred.
+*   **The [Joule] (J):** The universal standard. One joule is the energy required to apply a force of one newton over a distance of one meter.
+
+*   **The [Watt] (W):** Often confused with energy, the **watt** is actually a unit of **power**, which is the *rate* at which energy is used or transferred.
+
     *   $1 \text{ Watt} = 1 \text{ Joule per second}$.
+
     *   Example: A 60W light bulb uses 60 joules of electrical energy every second.
-*   **Calories and BTUs:** Still widely used in specific industries (nutrition and heating/cooling) but can be converted to joules ($1 \text{ cal} \approx 4.184 \text{ J}$).
+
+*   **[Calorie]s and [BTU]s:** Still widely used in specific industries (nutrition and heating/cooling) but can be converted to joules ($1 \text{ cal} \approx 4.184 \text{ J}$).
 
 <!-- END -->
+
 
 
 ### How can various properties of matter be measured and described?
@@ -226,6 +257,7 @@ If you plot temperature vs. time while heating ice to steam, you see a distinct 
 *   **Exothermic Processes** (Freezing, Condensation, Deposition): Energy is **released** to the surroundings as bonds form. The surroundings get warmer.
 
 <!-- END  -->
+<!-- END UNIT -->
 
 
 ## heat and energy
