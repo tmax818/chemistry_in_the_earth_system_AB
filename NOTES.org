@@ -1,272 +1,455 @@
-#+title: notes
-
+#+title: notes (chemistry)
 
 * measuring matter and energy
-:properties:
+:PROPERTIES:
+:CUSTOM_ID: measuring-matter-and-energy
 :unit-number: 1
 :time: 18 days
 :end-date: <2026-09-10 Thu 21:27>
-:end:
-
-
+:END:
 ** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary
+:END:
+*** lesson one
+:PROPERTIES:
+:CUSTOM_ID: lesson-one
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-*** lesson 1
+[[https://en.wikipedia.org/wiki/Calorie][calorie]]
+[[https://en.wikipedia.org/wiki/potential_energy][potential energy]]
+[[https://en.wikipedia.org/wiki/kinetic_energy][kinetic energy]]
+[[https://en.wikipedia.org/wiki/conversion_factor][conversion factor]]
+[[https://en.wikipedia.org/wiki/accuracy][accuracy]]
+[[https://en.wikipedia.org/wiki/precision][precision]]
+[[https://en.wikipedia.org/wiki/significant_figure][significant figure]]
+[[https://en.wikipedia.org/wiki/scientific_notation][scientific
+notation]]
 
-| calorie             |
-| potential energy    |
-| kinetic energy      |
-| conversion factor   |
-| accuracy            |
-| precision           |
-| significant figure  |
-| scientific notation |
+*** lesson two
+:PROPERTIES:
+:CUSTOM_ID: lesson-two
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-*** lesson 2
-
-| matter             |
-| extensive property |
-| intensive property |
-| model              |
-| system             |
-| criteria           |
-| constraint         |
-| tradeoff           |
+matter extensive property intensive property model system criteria
+constraint tradeoff
 
 ** essential questions
-
+:PROPERTIES:
+:CUSTOM_ID: essential-questions
+:END:
 *** What are some different *forms of energy*, and how are they *measured*?
-*** How can various *properties of matter* be measured and described? 
+:PROPERTIES:
+:CUSTOM_ID: what-are-some-different-forms-of-energy-and-how-are-they-measured
+:END:
+*** How can various *properties of matter* be measured and described?
+:PROPERTIES:
+:CUSTOM_ID: how-can-various-properties-of-matter-be-measured-and-described
+:END:
 *** What happens to the *particles* and *energy* of a *substance* as it changes *temperature* or changes *state*?
-
-
+:PROPERTIES:
+:CUSTOM_ID: what-happens-to-the-particles-and-energy-of-a-substance-as-it-changes-temperature-or-changes-state
+:END:
 * heat and energy
-:properties:
+:PROPERTIES:
+:CUSTOM_ID: heat-and-energy
 :unit-number: 2
 :time: 23 days
 :end-date: <2026-10-15 Thu 21:28>
-:end:
-
-
+:END:
 ** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-1
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-*** lesson 1
-
-| thermodynamics Lesson 1                |
-| internal energy Lesson 1               |
-| molar mass Lesson 1                    |
-| kinetic-molecular theory Lesson 1      |
-| law of conservation of energy Lesson 2 |
-
-
-*** lesson 2
-
-| specific heat capacity Lesson 2 |
-| entropy Lesson 2                |
-| work Lesson 2                   |
-| tectonic plates Lesson 3        |
-| P-wave Lesson 3                 |
-| S-wave Lesson 3                 |
-| mantle convection Lesson 3      |
+matter extensive property intensive property model system criteria
+constraint tradeoff
 
 ** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-1
+:END:
+*** What are some different *forms of energy*, and how are they *measured*?
+:PROPERTIES:
+:CUSTOM_ID: what-are-some-different-forms-of-energy-and-how-are-they-measured-1
+:END:
+*** How can various *properties of matter* be measured and described?
+:PROPERTIES:
+:CUSTOM_ID: how-can-various-properties-of-matter-be-measured-and-described-1
+:END:
+*** What happens to the *particles* and *energy* of a *substance* as it changes *temperature* or changes *state*?
+:PROPERTIES:
+:CUSTOM_ID: what-happens-to-the-particles-and-energy-of-a-substance-as-it-changes-temperature-or-changes-state-1
+:END:
+* heat and energy
+:PROPERTIES:
+:CUSTOM_ID: heat-and-energy-1
+:unit-number: 2
+:time: 23 days
+:end-date: <2026-10-15 Thu 21:28>
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-2
+:END:
+*** lesson one
+:PROPERTIES:
+:CUSTOM_ID: lesson-one-1
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-*** How is the stability of a gaseous system affected by changes in the system? 
-*** How is energy transferred within and between systems? 
-*** How do energy and matter cycle in Earth’s interior? 
+thermodynamics internal energy molar mass kinetic-molecular theory law
+of conservation of energy
 
+*** lesson two
+:PROPERTIES:
+:CUSTOM_ID: lesson-two-1
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
+specific heat capacity entropy work tectonic plates P-wave S-wave mantle
+convection
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-2
+:END:
+*** How is the stability of a gaseous system affected by changes in the system?
+:PROPERTIES:
+:CUSTOM_ID: how-is-the-stability-of-a-gaseous-system-affected-by-changes-in-the-system
+:END:
+*** How is energy transferred within and between systems?
+:PROPERTIES:
+:CUSTOM_ID: how-is-energy-transferred-within-and-between-systems
+:END:
+*** How do energy and matter cycle in Earth's interior?
+:PROPERTIES:
+:CUSTOM_ID: how-do-energy-and-matter-cycle-in-earths-interior
+:END:
 * patterns in the properties of matter
-:properties:
+:PROPERTIES:
+:CUSTOM_ID: patterns-in-the-properties-of-matter
 :unit-number: 3
 :time: 24 days
 :end-date: <2026-11-20 Fri 21:29>
-:end:
-
+:END:
 ** vocabulary
-
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-3
+:END:
 *** lesson one
+:PROPERTIES:
+:CUSTOM_ID: lesson-one-2
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-| electron Lesson 1         |
-| nucleus Lesson 1          |
-| proton Lesson 1           |
-| neutron Lesson 1          |
-| orbital Lesson 1          |
-| valence electron Lesson 1 |
-| atomic number Lesson 1    |
+electron nucleus proton neutron orbital valence electron atomic number
 
 *** lesson two
+:PROPERTIES:
+:CUSTOM_ID: lesson-two-2
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-| ionization energy Lesson 2 |
-| atomic radius Lesson 2     |
-| electronegativity Lesson 2 |
+ionization energy atomic radius electronegativity
 
+*** lesson three
+:PROPERTIES:
+:CUSTOM_ID: lesson-three
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-| ionic bond Lesson 3     |
-| covalent bond Lesson 3  |
-| molecule Lesson 3       |
-| metallic bond Lesson 3  |
-| polyatomic ion Lesson 3 |
-
+ionic bond covalent bond molecule metallic bond polyatomic ion
 
 ** essential questions
-
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-3
+:END:
 *** What are the physical and chemical properties of metals, nonmetals, and metalloids?
+:PROPERTIES:
+:CUSTOM_ID: what-are-the-physical-and-chemical-properties-of-metals-nonmetals-and-metalloids
+:END:
 *** What is the scale and basic structure of an atom?
+:PROPERTIES:
+:CUSTOM_ID: what-is-the-scale-and-basic-structure-of-an-atom
+:END:
 *** How do patterns in the periodic table predict the behavior and properties of elements?
+:PROPERTIES:
+:CUSTOM_ID: how-do-patterns-in-the-periodic-table-predict-the-behavior-and-properties-of-elements
+:END:
 *** How can different types of bonding affect the properties of substances?
+:PROPERTIES:
+:CUSTOM_ID: how-can-different-types-of-bonding-affect-the-properties-of-substances
+:END:
 *** How can you use the periodic table to help predict the types of bonds elements will form?
-
-
+:PROPERTIES:
+:CUSTOM_ID: how-can-you-use-the-periodic-table-to-help-predict-the-types-of-bonds-elements-will-form
+:END:
 * chemical attractions
-:properties:
+:PROPERTIES:
+:CUSTOM_ID: chemical-attractions
 :unit-number: 4
 :time: 48 days
 :end-date: <2027-01-27 Wed 21:31>
-:end:
-
+:END:
 ** vocabulary
-
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-4
+:END:
 *** lesson one
+:PROPERTIES:
+:CUSTOM_ID: lesson-one-3
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-
-| intermolecular force  |
-| polarity              |
-| hydrogen bonding      |
-| materials science     |
-| polymer               |
-| hydrocarbon           |
-| composite             |
+intermolecular force polarity hydrogen bonding materials science polymer
+hydrocarbon composite
 
 *** lesson two
+:PROPERTIES:
+:CUSTOM_ID: lesson-two-3
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-
-| law of conservation of mass  |
-| chemical equation            |
-| coefficient                  |
-| mole                         |
+law of conservation of mass chemical equation coefficient mole
 
 *** lesson three
+:PROPERTIES:
+:CUSTOM_ID: lesson-three-1
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-
-| solution       |
-| solvent        |
-| solute         |
-| solubility     |
-| concentration  |
+solution solvent solute solubility concentration
 
 ** essential questions
-
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-4
+:END:
 *** How do forces between particles affect the properties of materials?
+:PROPERTIES:
+:CUSTOM_ID: how-do-forces-between-particles-affect-the-properties-of-materials
+:END:
 *** How can interactions between particles be modeled?
+:PROPERTIES:
+:CUSTOM_ID: how-can-interactions-between-particles-be-modeled
+:END:
 *** How does the law of conservation of mass apply to chemical reactions at both the macroscopic and subatomic scales?
+:PROPERTIES:
+:CUSTOM_ID: how-does-the-law-of-conservation-of-mass-apply-to-chemical-reactions-at-both-the-macroscopic-and-subatomic-scales
+:END:
 *** In what ways can the changes in chemical reactions be quantified in terms of reactants and products?
+:PROPERTIES:
+:CUSTOM_ID: in-what-ways-can-the-changes-in-chemical-reactions-be-quantified-in-terms-of-reactants-and-products
+:END:
 *** What is solubility, and how do different factors affect it?
-
+:PROPERTIES:
+:CUSTOM_ID: what-is-solubility-and-how-do-different-factors-affect-it
+:END:
 * reaction energy
-:properties:
+:PROPERTIES:
+:CUSTOM_ID: reaction-energy
 :unit-number: 5
 :time: 21 days
 :end-date: <2027-03-01 Mon 21:32>
-:end:
-
-
+:END:
 ** vocabulary
-
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-5
+:END:
 *** lesson one
+:PROPERTIES:
+:CUSTOM_ID: lesson-one-4
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-|exothermic reaction Lesson 1
-|endothermic reaction Lesson 1
-|enthalpy Lesson 1
-|change in enthalpy Lesson 1
-|thermochemical equation Lesson 1
-|Hess’s law Lesson 1
+exothermic reaction endothermic reaction enthalpy change in enthalpy
+thermochemical equation [Hess's law]
 
 *** lesson two
+:PROPERTIES:
+:CUSTOM_ID: lesson-two-4
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-|collision theory Lesson 2
-|reaction rate Lesson 2
-|activation energy Lesson 2
-|catalyst Lesson 2
-|rate law Lesson 2
+collision theory reaction rate activation energy catalyst rate law
 
 ** essential questions
-
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-5
+:END:
 *** What is the source of energy in chemical systems and processes?
+:PROPERTIES:
+:CUSTOM_ID: what-is-the-source-of-energy-in-chemical-systems-and-processes
+:END:
 *** How can we model the patterns of energy flow in a chemical reaction?
+:PROPERTIES:
+:CUSTOM_ID: how-can-we-model-the-patterns-of-energy-flow-in-a-chemical-reaction
+:END:
 *** How can energy be used to control chemical reactions?
-
-
-
+:PROPERTIES:
+:CUSTOM_ID: how-can-energy-be-used-to-control-chemical-reactions
+:END:
 * human activity and earth's atmosphere
-:properties:
+:PROPERTIES:
+:CUSTOM_ID: human-activity-and-earths-atmosphere
 :unit-number: 6
 :time: 28 days
-:end:
-
-
+:END:
 ** vocabulary
-
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-6
+:END:
 *** lesson one
+:PROPERTIES:
+:CUSTOM_ID: lesson-one-5
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-nonrenewable resource Lesson 1
-primary energy source Lesson 1
-secondary energy source Lesson 1
-efficiency Lesson 1
-renewable resource Lesson 1
+nonrenewable resource primary energy source secondary energy source
+efficiency renewable resource
 
-*** lesson 2
+*** lesson three
+:PROPERTIES:
+:CUSTOM_ID: lesson-three-2
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-|greenhouse effect Lesson 2
-|energy budget Lesson 2
-|feedback loop Lesson 2
+greenhouse effect energy budget feedback loop
 
-*** lesson 3
+*** lesson three
+:PROPERTIES:
+:CUSTOM_ID: lesson-three-3
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-|acid Lesson 3
-|base Lesson 3
-|pH Lesson 3
-|acid precipitation Lesson 3
+acid base pH acid precipitation
 
 ** essential questions
-
-
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-6
+:END:
 *** How is energy obtained from different sources stored, transported, and used?
+:PROPERTIES:
+:CUSTOM_ID: how-is-energy-obtained-from-different-sources-stored-transported-and-used
+:END:
 *** How do scientists and engineers use their knowledge of climate science and chemistry to develop energy system solutions that optimize conservation and minimize pollution at different scales?
+:PROPERTIES:
+:CUSTOM_ID: how-do-scientists-and-engineers-use-their-knowledge-of-climate-science-and-chemistry-to-develop-energy-system-solutions-that-optimize-conservation-and-minimize-pollution-at-different-scales
+:END:
 *** How has California addressed environmental problems related to energy use?
-
-
+:PROPERTIES:
+:CUSTOM_ID: how-has-california-addressed-environmental-problems-related-to-energy-use
+:END:
 * chemical equilibrium systems
-:properties:
+:PROPERTIES:
+:CUSTOM_ID: chemical-equilibrium-systems
 :unit-number: 7
 :time: 24 days
-:end:
-
+:END:
 ** vocabulary
-
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-7
+:END:
 *** lesson one
+:PROPERTIES:
+:CUSTOM_ID: lesson-one-6
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-|reversible reaction Lesson 1
-|chemical equilibrium Lesson 1
-|equilibrium constant Lesson 1
+reversible reaction chemical equilibrium equilibrium constant
 
 *** lesson two
+:PROPERTIES:
+:CUSTOM_ID: lesson-two-5
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-|acid-base indicator Lesson 2
-|titration Lesson 2
-|buffer Lesson 2
-|solubility product Lesson 2
-|common-ion effect Lesson 2
+acid-base indicator titration buffer solubility product common-ion
+effect
 
-*** lesson 3
+*** lesson three
+:PROPERTIES:
+:CUSTOM_ID: lesson-three-4
+:END:
+| term | definition | notes |
+|------+------------+-------|
 
-|ocean acidification Lesson 3
-|Le Châtelier’s principle Lesson 3
-|interest group Lesson 4
+ocean acidification Le Châtelier's principle interest group
 
 ** essential questions
-
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-7
+:END:
 *** What cause-and-effect mechanisms explain how a reaction proceeds?
+:PROPERTIES:
+:CUSTOM_ID: what-cause-and-effect-mechanisms-explain-how-a-reaction-proceeds
+:END:
 *** What scale is used to rate the strengths of acids and bases?
+:PROPERTIES:
+:CUSTOM_ID: what-scale-is-used-to-rate-the-strengths-of-acids-and-bases
+:END:
 *** What predictable patterns happen when chemical equilibrium is disturbed?
+:PROPERTIES:
+:CUSTOM_ID: what-predictable-patterns-happen-when-chemical-equilibrium-is-disturbed
+:END:
 *** How can matter cycles and energy flows in chemical equilibrium processes be used to address ecological and economic concerns?
+:PROPERTIES:
+:CUSTOM_ID: how-can-matter-cycles-and-energy-flows-in-chemical-equilibrium-processes-be-used-to-address-ecological-and-economic-concerns
+:END:
+[electron]: [nucleus]: [proton]: [neutron]: [orbital]:
+[valenceelectron]: [atomicnumber]: [ionizationenergy]: [atomicradius]:
+[electronegativity]: [ionicbond]: [covalentbond]: [molecule]:
+[metallicbond]: [polyatomicion]: [intermolecularforce]: [polarity]:
+[hydrogenbonding]: [materialsscience]: [polymer]: [hydrocarbon]:
+[composite]: [lawofconservationofmass]: [chemicalequation]:
+[coefficient]: [mole]: [solution]: [solvent]: [solute]: [solubility]:
+[concentration]: [exothermicreaction]: [endothermicreaction]:
+[enthalpy]: [changeinenthalpy]: [thermochemicalequation]: [Hess's law]:
+https://en.wikipedia.org/wiki/Hess%27s_law [collision theory]: [reaction
+rate]: [activation energy]: [catalyst]:
+https://en.wikipedia.org/wiki/catalyst [rate law]: [nonrenewablere
+source]: [primary energy source]: [secondary energy source]:
+[efficiency]: [renewable resource]: [greenhouse effect]:
+https://en.wikipedia.org/wiki/ [energy budget]:
+https://en.wikipedia.org/wiki/ [feedbackloop ]:
+https://en.wikipedia.org/wiki/Feedback#Positive_and_negative_feedback
+[acid]: https://en.wikipedia.org/wiki/acid [base]:
+https://en.wikipedia.org/wiki/base [pH]:
+https://en.wikipedia.org/wiki/ph [acid precipitation]:
+https://en.wikipedia.org/wiki/ [reversible reaction]:
+https://en.wikipedia.org/wiki/ [chemical equilibrium]:
+https://en.wikipedia.org/wiki/chemical_equilibrium [equilibrium
+constant]: https://en.wikipedia.org/wiki/equilibrium_constant [acid-base
+indicator]: https://en.wikipedia.org/wiki/acid-base_indicator
+[titration]: https://en.wikipedia.org/wiki/titration [buffer]:
+https://en.wikipedia.org/wiki/buffer [solubility product (equilibrium)]:
+https://en.wikipedia.org/wiki/solubility_product [common-ion effect]:
+https://en.wikipedia.org/wiki/ [ocean acidification]:
+https://en.wikipedia.org/wiki/ocean_acidification [Le Châtelier's
+principle]: https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle
+[interest group]: https://en.wikipedia.org/wiki/interest_group

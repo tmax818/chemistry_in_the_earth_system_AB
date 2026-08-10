@@ -1,36 +1,35 @@
 ---
-title: notes
+title: notes (chemistry)
 ---
 
 # measuring matter and energy {#measuring-matter-and-energy unit-number="1" time="18 days" end-date="<2026-09-10 Thu 21:27>"}
 
 ## vocabulary
 
-### lesson 1
+### lesson one
+|term|definition|notes|
+|-------------|--------|-----|
+[calorie]
+[potential energy] 
+[kinetic energy] 
+[conversion factor]
+[accuracy]
+[precision]
+[significant figure]
+[scientific notation]
 
-  ---------------------
-  calorie
-  potential energy
-  kinetic energy
-  conversion factor
-  accuracy
-  precision
-  significant figure
-  scientific notation
-  ---------------------
 
-### lesson 2
-
-  --------------------
-  matter
-  extensive property
-  intensive property
-  model
-  system
-  criteria
-  constraint
-  tradeoff
-  --------------------
+### lesson two
+|term|definition|notes|
+|-------------|--------|-----|
+[matter]
+extensive property
+intensive property
+model
+system
+criteria
+constraint
+tradeoff
 
 ## essential questions
 
@@ -44,27 +43,51 @@ title: notes
 
 ## vocabulary
 
-### lesson 1
+### 
+|term|definition|notes|
+|-------------|--------|-----|
+matter
+extensive property
+intensive property
+model
+system
+criteria
+constraint
+tradeoff
 
-  ----------------------------------------
-  thermodynamics Lesson 1
-  internal energy Lesson 1
-  molar mass Lesson 1
-  kinetic-molecular theory Lesson 1
-  law of conservation of energy Lesson 2
-  ----------------------------------------
+## essential questions
 
-### lesson 2
+### What are some different **forms of energy**, and how are they **measured**?
 
-  ---------------------------------
-  specific heat capacity Lesson 2
-  entropy Lesson 2
-  work Lesson 2
-  tectonic plates Lesson 3
-  P-wave Lesson 3
-  S-wave Lesson 3
-  mantle convection Lesson 3
-  ---------------------------------
+### How can various **properties of matter** be measured and described?
+
+### What happens to the **particles** and **energy** of a **substance** as it changes **temperature** or changes **state**?
+
+# heat and energy {#heat-and-energy-1 unit-number="2" time="23 days" end-date="<2026-10-15 Thu 21:28>"}
+
+## vocabulary
+
+### lesson one
+
+|term|definition|notes|
+|-------------|--------|-----|
+thermodynamics
+internal energy 
+molar mass
+kinetic-molecular theory
+law of conservation of energy
+
+### lesson two
+
+|term|definition|notes|
+|-------------|--------|-----|
+specific heat capacity
+entropy
+work
+tectonic plates 
+P-wave
+S-wave
+mantle convection
 
 ## essential questions
 
@@ -72,7 +95,7 @@ title: notes
 
 ### How is energy transferred within and between systems?
 
-### How do energy and matter cycle in Earth's interior?
+### How do energy and matter cycle in Earth\'s interior?
 
 # patterns in the properties of matter {#patterns-in-the-properties-of-matter unit-number="3" time="24 days" end-date="<2026-11-20 Fri 21:29>"}
 
@@ -80,31 +103,33 @@ title: notes
 
 ### lesson one
 
-  ---------------------------
-  electron Lesson 1
-  nucleus Lesson 1
-  proton Lesson 1
-  neutron Lesson 1
-  orbital Lesson 1
-  valence electron Lesson 1
-  atomic number Lesson 1
-  ---------------------------
+|term|definition|notes|
+|-------------|--------|-----|
+[electron]
+nucleus 
+proton
+neutron 
+orbital 
+valence electron
+atomic number
 
 ### lesson two
 
-  ----------------------------
-  ionization energy Lesson 2
-  atomic radius Lesson 2
-  electronegativity Lesson 2
-  ----------------------------
+|term|definition|notes|
+|-------------|--------|-----|
+ionization energy
+atomic radius 
+electronegativity
 
-  -------------------------
-  ionic bond Lesson 3
-  covalent bond Lesson 3
-  molecule Lesson 3
-  metallic bond Lesson 3
-  polyatomic ion Lesson 3
-  -------------------------
+### lesson three
+
+|term|definition|notes|
+|-------------|--------|-----|
+ionic bond 
+covalent bond 
+molecule
+metallic bond 
+polyatomic ion
 
 ## essential questions
 
@@ -124,34 +149,34 @@ title: notes
 
 ### lesson one
 
-  -------------------------------
-  intermolecular force Lesson 1
-  polarity Lesson 1
-  hydrogen bonding Lesson 1
-  materials science Lesson 1
-  polymer Lesson 1
-  hydrocarbon Lesson 1
-  composite Lesson 1
-  -------------------------------
+|term|definition|notes|
+|-------------|--------|-----|
+intermolecular force
+polarity
+hydrogen bonding 
+materials science
+polymer
+hydrocarbon 
+composite 
 
 ### lesson two
 
-  --------------------------------------
-  law of conservation of mass Lesson 2
-  chemical equation Lesson 2
-  coefficient Lesson 2
-  mole Lesson 2
-  --------------------------------------
+|term|definition|notes|
+|-------------|--------|-----|
+law of conservation of mass
+chemical equation
+coefficient
+mole
 
 ### lesson three
 
-  ------------------------
-  solution Lesson 3
-  solvent Lesson 3
-  solute Lesson 3
-  solubility Lesson 3
-  concentration Lesson 3
-  ------------------------
+|term|definition|notes|
+|-------------|--------|-----|
+solution
+solvent
+solute 
+solubility
+concentration
 
 ## essential questions
 
@@ -169,12 +194,26 @@ title: notes
 
 ## vocabulary
 
-exothermic reaction Lesson 1 endothermic reaction Lesson 1 enthalpy
-Lesson 1 change in enthalpy Lesson 1 thermochemical equation Lesson 1
-Hess's law Lesson 1
+### lesson one
 
-collision theory Lesson 2 reaction rate Lesson 2 activation energy
-Lesson 2 catalyst Lesson 2 rate law Lesson 2
+|term|definition|notes|
+|-------------|--------|-----|
+exothermic reaction 
+endothermic reaction
+enthalpy
+change in enthalpy
+thermochemical equation
+[Hess's law]
+
+### lesson two
+
+|term|definition|notes|
+|-------------|--------|-----|
+collision theory 
+reaction rate 
+activation energy
+catalyst 
+rate law 
 
 ## essential questions
 
@@ -188,12 +227,32 @@ Lesson 2 catalyst Lesson 2 rate law Lesson 2
 
 ## vocabulary
 
-nonrenewable resource Lesson 1 primary energy source Lesson 1 secondary
-energy source Lesson 1 efficiency Lesson 1 renewable resource Lesson 1
+### lesson one
 
-greenhouse effect Lesson 2 energy budget Lesson 2 feedback loop Lesson 2
+|term|definition|notes|
+|-------------|--------|-----|
+nonrenewable resource
+primary energy source
+secondary energy source
+efficiency
+renewable resource
 
-acid Lesson 3 base Lesson 3 pH Lesson 3 acid precipitation Lesson 3
+### lesson three
+
+|term|definition|notes|
+|-------------|--------|-----|
+greenhouse effect
+energy budget 
+feedback loop 
+
+### lesson three
+
+|term|definition|notes|
+|-------------|--------|-----|
+acid 
+base 
+pH
+acid precipitation
 
 ## essential questions
 
@@ -207,14 +266,31 @@ acid Lesson 3 base Lesson 3 pH Lesson 3 acid precipitation Lesson 3
 
 ## vocabulary
 
-reversible reaction Lesson 1 chemical equilibrium Lesson 1 equilibrium
-constant Lesson 1
+### lesson one
 
-acid-base indicator Lesson 2 titration Lesson 2 buffer Lesson 2
-solubility product Lesson 2 common-ion effect Lesson 2
+|term|definition|notes|
+|-------------|--------|-----|
+reversible reaction 
+chemical equilibrium
+equilibrium constant
 
-ocean acidification Lesson 3 Le Châtelier's principle Lesson 3 interest
-group Lesson 4
+### lesson two
+
+|term|definition|notes|
+|-------------|--------|-----|
+acid-base indicator
+titration
+buffer
+solubility product 
+common-ion effect
+
+### lesson three
+
+|term|definition|notes|
+|-------------|--------|-----|
+ocean acidification
+[Le Châtelier’s principle]
+[interest group] 
 
 ## essential questions
 
@@ -225,3 +301,99 @@ group Lesson 4
 ### What predictable patterns happen when chemical equilibrium is disturbed?
 
 ### How can matter cycles and energy flows in chemical equilibrium processes be used to address ecological and economic concerns?
+
+
+[calorie]: https://en.wikipedia.org/wiki/Calorie
+[potential energy]: https://en.wikipedia.org/wiki/potential_energy
+[kinetic energy]: https://en.wikipedia.org/wiki/kinetic_energy
+[conversion factor]: https://en.wikipedia.org/wiki/conversion_factor
+[accuracy]: https://en.wikipedia.org/wiki/accuracy
+[precision]: https://en.wikipedia.org/wiki/precision
+[significant figure]: https://en.wikipedia.org/wiki/significant_figure
+[scientific notation]: https://en.wikipedia.org/wiki/scientific_notation
+[matter]: https://en.wikipedia.org/wiki/matter
+[model]: https://en.wikipedia.org/wiki/model
+[system]: https://en.wikipedia.org/wiki/system
+[criteria]: https://en.wiktionary.org/wiki/criteria
+[constraint]: https://en.wiktionary.org/wiki/constraint
+[tradeoff]: https://en.wiktionary.org/wiki/tradeoff
+[extensive property]: https://en.wikipedia.org/wiki/extensive_property
+[intensive property]: https://en.wikipedia.org/wiki/intensive_property
+[thermodynamics]: https://en.wikipedia.org/wiki/thermodynamics
+[internal energy]: https://en.wikipedia.org/wiki/
+[molar mass]: https://en.wikipedia.org/wiki/molar_mass
+[kinetic-molecular theory]: https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Kinetic_theory_of_gases
+[law of conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
+[specific heat capacity]: https://en.wikipedia.org/wiki/
+[entropy]: https://en.wikipedia.org/wiki/entropy
+[work]: https://en.wikipedia.org/wiki/Work_(physics)
+[tectonic plates]: https://en.wikipedia.org/wiki/
+[P-wave]: https://en.wikipedia.org/wiki/
+[S-wave]: https://en.wikipedia.org/wiki/
+[mantleconvection]: https://en.wikipedia.org/wiki/
+[electron]: https://en.wikipedia.org/wiki/electron
+[nucleus]: https://en.wikipedia.org/wiki/
+[proton]: https://en.wikipedia.org/wiki/
+[neutron]: https://en.wikipedia.org/wiki/
+[orbital]: https://en.wikipedia.org/wiki/
+[valenceelectron]: https://en.wikipedia.org/wiki/
+[atomic number]: https://en.wikipedia.org/wiki/atomic_number
+[ionization energy]: https://en.wikipedia.org/wiki/ionization_energy
+[atomic radius]: https://en.wikipedia.org/wiki/atomic_radius
+[electronegativity]: https://en.wikipedia.org/wiki/electronegativity
+[ionic bond]:
+[covalent bond]:
+[molecule]:
+[metallic bond]:
+[polyatomic ion]:
+[intermolecular force]:
+[polarity]:
+[hydrogen bonding]:
+[materials science]:
+[polymer]:
+[hydrocarbon]:
+[composite]:
+[law of conservation of mass]: https://en.wikipedia.org/wiki/Conservation_of_mass
+[chemical equation]: https://en.wikipedia.org/wiki/Chemical_equation
+[coefficient]: 
+[mole]: https://en.wikipedia.org/wiki/Mole_(unit)
+[solution]: https://en.wikipedia.org/wiki/solution_(chemistry)
+[solvent]: https://en.wikipedia.org/wiki/Solvent
+[solute]: https://en.wikipedia.org/wiki/Solute
+[solubility]: 
+[concentration]:
+[exothermic reaction]: 
+[endothermic reaction]:
+[enthalpy]: https://en.wikipedia.org/wiki/enthalpy
+[change in enthalpy]:
+[thermochemical equation]:
+[Hess's law]: https://en.wikipedia.org/wiki/Hess%27s_law
+[collision theory]:
+[reaction rate]:
+[activation energy]:
+[catalyst]: https://en.wikipedia.org/wiki/catalyst
+[rate law]:
+[nonrenewable resource]:
+[primary energy source]:
+[secondary energy source]:
+[efficiency]:
+[renewable resource]:
+[greenhouse effect]: https://en.wikipedia.org/wiki/greenhouse_effect
+[energy budget]: https://en.wikipedia.org/wiki/energy_budget
+[feedbackloop ]: https://en.wikipedia.org/wiki/Feedback#Positive_and_negative_feedback
+[acid]: https://en.wikipedia.org/wiki/acid
+[base]: https://en.wikipedia.org/wiki/base
+[pH]: https://en.wikipedia.org/wiki/ph
+[acid precipitation]: https://en.wikipedia.org/wiki/
+[reversible reaction]: https://en.wikipedia.org/wiki/
+[chemical equilibrium]: https://en.wikipedia.org/wiki/chemical_equilibrium
+[equilibrium constant]: https://en.wikipedia.org/wiki/equilibrium_constant
+[acid-base indicator]: https://en.wikipedia.org/wiki/acid-base_indicator
+[titration]: https://en.wikipedia.org/wiki/titration
+[buffer]: https://en.wikipedia.org/wiki/buffer
+[solubility product (equilibrium)]: https://en.wikipedia.org/wiki/solubility_product
+[common-ion effect]: https://en.wikipedia.org/wiki/
+[ocean acidification]: https://en.wikipedia.org/wiki/ocean_acidification
+[Le Châtelier’s principle]: https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle
+[interest group]: https://en.wikipedia.org/wiki/interest_group
+
