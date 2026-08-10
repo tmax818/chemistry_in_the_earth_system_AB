@@ -1,0 +1,227 @@
+---
+title: notes
+---
+
+# measuring matter and energy {#measuring-matter-and-energy unit-number="1" time="18 days" end-date="<2026-09-10 Thu 21:27>"}
+
+## vocabulary
+
+### lesson 1
+
+  ---------------------
+  calorie
+  potential energy
+  kinetic energy
+  conversion factor
+  accuracy
+  precision
+  significant figure
+  scientific notation
+  ---------------------
+
+### lesson 2
+
+  --------------------
+  matter
+  extensive property
+  intensive property
+  model
+  system
+  criteria
+  constraint
+  tradeoff
+  --------------------
+
+## essential questions
+
+### What are some different **forms of energy**, and how are they **measured**?
+
+### How can various **properties of matter** be measured and described?
+
+### What happens to the **particles** and **energy** of a **substance** as it changes **temperature** or changes **state**?
+
+# heat and energy {#heat-and-energy unit-number="2" time="23 days" end-date="<2026-10-15 Thu 21:28>"}
+
+## vocabulary
+
+### lesson 1
+
+  ----------------------------------------
+  thermodynamics Lesson 1
+  internal energy Lesson 1
+  molar mass Lesson 1
+  kinetic-molecular theory Lesson 1
+  law of conservation of energy Lesson 2
+  ----------------------------------------
+
+### lesson 2
+
+  ---------------------------------
+  specific heat capacity Lesson 2
+  entropy Lesson 2
+  work Lesson 2
+  tectonic plates Lesson 3
+  P-wave Lesson 3
+  S-wave Lesson 3
+  mantle convection Lesson 3
+  ---------------------------------
+
+## essential questions
+
+### How is the stability of a gaseous system affected by changes in the system?
+
+### How is energy transferred within and between systems?
+
+### How do energy and matter cycle in Earth's interior?
+
+# patterns in the properties of matter {#patterns-in-the-properties-of-matter unit-number="3" time="24 days" end-date="<2026-11-20 Fri 21:29>"}
+
+## vocabulary
+
+### lesson one
+
+  ---------------------------
+  electron Lesson 1
+  nucleus Lesson 1
+  proton Lesson 1
+  neutron Lesson 1
+  orbital Lesson 1
+  valence electron Lesson 1
+  atomic number Lesson 1
+  ---------------------------
+
+### lesson two
+
+  ----------------------------
+  ionization energy Lesson 2
+  atomic radius Lesson 2
+  electronegativity Lesson 2
+  ----------------------------
+
+  -------------------------
+  ionic bond Lesson 3
+  covalent bond Lesson 3
+  molecule Lesson 3
+  metallic bond Lesson 3
+  polyatomic ion Lesson 3
+  -------------------------
+
+## essential questions
+
+### What are the physical and chemical properties of metals, nonmetals, and metalloids?
+
+### What is the scale and basic structure of an atom?
+
+### How do patterns in the periodic table predict the behavior and properties of elements?
+
+### How can different types of bonding affect the properties of substances?
+
+### How can you use the periodic table to help predict the types of bonds elements will form?
+
+# chemical attractions {#chemical-attractions unit-number="4" time="48 days" end-date="<2027-01-27 Wed 21:31>"}
+
+## vocabulary
+
+### lesson one
+
+  -------------------------------
+  intermolecular force Lesson 1
+  polarity Lesson 1
+  hydrogen bonding Lesson 1
+  materials science Lesson 1
+  polymer Lesson 1
+  hydrocarbon Lesson 1
+  composite Lesson 1
+  -------------------------------
+
+### lesson two
+
+  --------------------------------------
+  law of conservation of mass Lesson 2
+  chemical equation Lesson 2
+  coefficient Lesson 2
+  mole Lesson 2
+  --------------------------------------
+
+### lesson three
+
+  ------------------------
+  solution Lesson 3
+  solvent Lesson 3
+  solute Lesson 3
+  solubility Lesson 3
+  concentration Lesson 3
+  ------------------------
+
+## essential questions
+
+### How do forces between particles affect the properties of materials?
+
+### How can interactions between particles be modeled?
+
+### How does the law of conservation of mass apply to chemical reactions at both the macroscopic and subatomic scales?
+
+### In what ways can the changes in chemical reactions be quantified in terms of reactants and products?
+
+### What is solubility, and how do different factors affect it?
+
+# reaction energy {#reaction-energy unit-number="5" time="21 days" end-date="<2027-03-01 Mon 21:32>"}
+
+## vocabulary
+
+exothermic reaction Lesson 1 endothermic reaction Lesson 1 enthalpy
+Lesson 1 change in enthalpy Lesson 1 thermochemical equation Lesson 1
+Hess's law Lesson 1
+
+collision theory Lesson 2 reaction rate Lesson 2 activation energy
+Lesson 2 catalyst Lesson 2 rate law Lesson 2
+
+## essential questions
+
+### What is the source of energy in chemical systems and processes?
+
+### How can we model the patterns of energy flow in a chemical reaction?
+
+### How can energy be used to control chemical reactions?
+
+# human activity and earth\'s atmosphere {#human-activity-and-earths-atmosphere unit-number="6" time="28 days"}
+
+## vocabulary
+
+nonrenewable resource Lesson 1 primary energy source Lesson 1 secondary
+energy source Lesson 1 efficiency Lesson 1 renewable resource Lesson 1
+
+greenhouse effect Lesson 2 energy budget Lesson 2 feedback loop Lesson 2
+
+acid Lesson 3 base Lesson 3 pH Lesson 3 acid precipitation Lesson 3
+
+## essential questions
+
+### How is energy obtained from different sources stored, transported, and used?
+
+### How do scientists and engineers use their knowledge of climate science and chemistry to develop energy system solutions that optimize conservation and minimize pollution at different scales?
+
+### How has California addressed environmental problems related to energy use?
+
+# chemical equilibrium systems {#chemical-equilibrium-systems unit-number="7" time="24 days"}
+
+## vocabulary
+
+reversible reaction Lesson 1 chemical equilibrium Lesson 1 equilibrium
+constant Lesson 1
+
+acid-base indicator Lesson 2 titration Lesson 2 buffer Lesson 2
+solubility product Lesson 2 common-ion effect Lesson 2
+
+ocean acidification Lesson 3 Le Châtelier's principle Lesson 3 interest
+group Lesson 4
+
+## essential questions
+
+### What cause-and-effect mechanisms explain how a reaction proceeds?
+
+### What scale is used to rate the strengths of acids and bases?
+
+### What predictable patterns happen when chemical equilibrium is disturbed?
+
+### How can matter cycles and energy flows in chemical equilibrium processes be used to address ecological and economic concerns?
